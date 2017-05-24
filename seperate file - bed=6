@@ -1,0 +1,5 @@
+ hadoop fs -cat /user/hive/warehouse/sep_list/type=Residential/beds=6/000000_0
+ 
+ 
+EL DORADO HILLS,5,0,830000
+ELK GROVE,3,2555,300000
